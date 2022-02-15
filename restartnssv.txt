@@ -1,0 +1,13 @@
+log Restart serwera za 60sekund!
+wait 570
+log Restart serwera za 3..
+wait 10
+log Restart serwera za 2..
+wait 10
+log Restart serwera za 1..
+wait 10
+log Uwaga! Restart serwera!
+wait 1799
+reco
+wait 1200
+reco

@@ -1,0 +1,21 @@
+Connection has been lost
+Server is restarting
+Server is full
+Too Many people
+Haslo jest nieprawidlowe
+Haslo jest nieprawid³owe
+Server jest restartowany
+Server jest wylaczony
+Serwer jest wylaczony
+Server jest wy³aczony
+Serwer jest wy³aczony
+Serwer jest restartowany
+Serwer jest pelny
+Serwer jest pe³ny
+Server jest pelny
+Server jest pe³ny
+Disconnected
+Gracz z tym nickiem jest juz zalogowany
+Connection lost
+Connection been lost
+Group

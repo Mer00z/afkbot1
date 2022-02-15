@@ -1,0 +1,7 @@
+send /login TUTAJHASLO
+send /ping
+send /ping
+send /ping
+send /ping
+send /ping
+send /reallife2.1

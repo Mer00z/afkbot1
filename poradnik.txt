@@ -1,0 +1,13 @@
+Wejdz w minecraftclient 
+( ten z zembatka )
+
+USTAW NICK 
+na login=NICK
+i nie tykaj nic juz tam
+
+plik nssvlotto.txt 
+i tam masz /lotto 39 
+zmien tylko liczbe nie tykaj nic
+
+NAJWAZNIEJSZE PLIK POLACZ
+masz tam /login TUTAJHASLO
